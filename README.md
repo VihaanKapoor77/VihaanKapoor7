@@ -1,24 +1,24 @@
 # VihaanKapoor7
 Me Readme :)
 
-# Hi I am a idiot
+# Hi, I am an idiot
 
-I make fun projects in python C++ and JS(I like python the best and C++)
+I make fun projects in Python, C++, and JS(I like Python the best and C++)
 
 I even made a website
 
-tigeedev.org
+[TIGEEEEEEEEE](https://tigeedev.org "TIGEE IS W")
 
-My best project is my AI_Homework agent which does homework for you. (w right)
+My best project is my AI_Homework agent, which does homework for you. (w right)
 
-https://github.com/VihaanKapoor77/Homework_AI_Agent
+[HOMEWORK](https://github.com/VihaanKapoor77/Homework_AI_Agent)
 
 I also made this agent for coding
 
-https://github.com/VihaanKapoor77/AI_Agent
+[AI](https://github.com/VihaanKapoor77/AI_Agent)
 
 and if you like to cheat(looking at you nvidia CEO...)
 
-https://github.com/VihaanKapoor77/N-gon-Cheats
+[N-GON](https://github.com/VihaanKapoor77/N-gon-Cheats)
 
 # bye bye
